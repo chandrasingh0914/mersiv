@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "692c30ed4932b83aadebdf88",
+    "name": "Electronics Showroom",
+    "imageUrl": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=3840&auto=format&fit=crop",
+    "domain": "localhost",
+    "videoUrl": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
+    "clickableLink": "http://localhost:3000",
+    "models": [
+      {
+        "url": "/models/BoomBox.glb",
+        "position": {
+          "x": -2,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "boombox-1"
+      },
+      {
+        "url": "/models/DamagedHelmet.glb",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "helmet-1"
+      },
+      {
+        "url": "/models/AntiqueCamera.glb",
+        "position": {
+          "x": 2,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "camera-1"
+      }
+    ]
+  },
+  {
+    "_id": "692c30ed4932b83aadebdf89",
+    "name": "Furniture Store",
+    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=3840&auto=format&fit=crop",
+    "domain": "localhost",
+    "videoUrl": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
+    "clickableLink": "http://localhost:3000",
+    "models": [
+      {
+        "url": "/models/SheenChair.glb",
+        "position": {
+          "x": -2,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1.5,
+        "id": "chair-1"
+      },
+      {
+        "url": "/models/Lantern.glb",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "lantern-1"
+      },
+      {
+        "url": "/models/Box.glb",
+        "position": {
+          "x": 2,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "box-1"
+      }
+    ]
+  },
+  {
+    "_id": "692c30ed4932b83aadebdf8a",
+    "name": "Fashion Boutique",
+    "imageUrl": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?q=80&w=3840&auto=format&fit=crop",
+    "domain": "localhost",
+    "videoUrl": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
+    "clickableLink": "http://localhost:3000",
+    "models": [
+      {
+        "url": "/models/WaterBottle.glb",
+        "position": {
+          "x": -2,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "bottle-1"
+      },
+      {
+        "url": "/models/Avocado.glb",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "size": 1,
+        "id": "avocado-1"
+      },
+      {
+        "url": "/models/SheenChair.glb",
+        "position": {
+          "x": 4.454197989239681,
+          "y": 1.0814884412738244,
+          "z": 0
+        },
+        "size": 1.2,
+        "id": "chair-2"
+      }
+    ],
+    "updatedAt": "2025-11-30T17:44:15.776Z"
+  }
+]
